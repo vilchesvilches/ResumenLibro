@@ -1,0 +1,12 @@
+
+body
+{
+    background-color: rgb(203, 206, 206);
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    color: black;
+}
